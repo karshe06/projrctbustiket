@@ -1,0 +1,25 @@
+.container {
+    max-width: 600px;
+    margin: 20px auto;
+    text-align: center;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .seat {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    margin: 5px;
+    background-color: #ccc;
+    border: 1px solid #999;
+  }
+  
+  .selected {
+    background-color: #6eb7ff;
+  }
+  
